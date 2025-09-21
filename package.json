@@ -32,6 +32,7 @@
     "rxjs": "^7.8.1"
   },
   "devDependencies": {
+    "@johanblumenberg/ts-mockito": "^1.0.51",
     "@nestjs/cli": "^10.3.2",
     "@nestjs/schematics": "^10.0.0",
     "@nestjs/testing": "^10.0.0",
